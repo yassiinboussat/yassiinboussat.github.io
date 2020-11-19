@@ -1,0 +1,30 @@
+
+body{
+  margin: 0px;
+}
+
+.logo{
+  height: 125px;
+  width: 125px;
+}
+#content{
+height: 300px;
+background-color: orange;
+}
+img{
+  max-width: 28.2%;
+  height: auto;
+}
+p1{
+position: relative;
+  left: 4px;
+  bottom: 225px;
+  font-size: 30px;
+  font-weight: bold;
+}
+p2{
+position: relative;
+  left: 460px;
+  bottom: 225px;
+  font-size: 30px;
+}
